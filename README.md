@@ -6,7 +6,7 @@ This repository contains my submission for Python Screening Task 2. It includes 
 
 ## Setup Instructions
 This repository contains my submission for Task 2.  
-- `Task2.txt` has the AI Debugging Assistant prompt.  
+- `Task2.md` has the AI Debugging Assistant prompt.  
 - `README.md` includes my design choices and reasoning.  
 You can open these files directly; no code setup is required.
 
